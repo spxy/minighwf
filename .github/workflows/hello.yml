@@ -1,5 +1,5 @@
 on: push
 jobs:
   world:
-    runs-on:
+    runs-on: ubuntu-latest
     steps:
