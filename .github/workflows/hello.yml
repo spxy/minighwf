@@ -2,4 +2,5 @@ on: push
 jobs:
   world:
     runs-on: ubuntu-latest
-    steps: []
+    steps:
+      - run:
